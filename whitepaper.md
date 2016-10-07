@@ -36,3 +36,21 @@ If successful, this project will lead to a self-sustaining ecosystem that fully 
 **Revenue Generation:**
 
 &nbsp;
+
+## 4. Objections Answered
+
+**Summary:**
+
+**On Execution:**
+
+**Legal Issues:**
+
+&nbsp;
+
+## 5. What To Do Now
+
+**Summary:**
+
+**Software Stack:**
+
+**Minimum Team:**
