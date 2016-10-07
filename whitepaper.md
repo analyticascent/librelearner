@@ -7,6 +7,8 @@
 
 If successful, this project will lead to a self-sustaining ecosystem that fully decentralizes three critical functions of schooling: conveying information, collaborating with peers, and certifying subject mastery.
 
+&nbsp;
+
 ## 1. Features & Development
 
 **Summary:** 
