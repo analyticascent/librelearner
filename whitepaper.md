@@ -7,6 +7,8 @@
 
 If successful, this project will lead to a self-sustaining ecosystem that fully decentralizes three critical functions of schooling: conveying information, collaborating with peers, and certifying subject mastery.
 
+&nbsp;
+
 ## 0. General Overview:
 
 **Summary:** Education can largely be thought of as a blend of *conveying* information, *collaboration* with peers, and *certifying* what students know. An effective approach can accommodate the needs of students, instructors, and existing schools if a demand for brick-and-mortar facilities exists. This section (**General Overview**) will go over questions relevant to a hypothetical investor.
