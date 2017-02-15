@@ -57,7 +57,11 @@ If successful, this project will lead to a self-sustaining ecosystem that fully 
 
 **Summary:** LibreLearner as a (free) *product* is a decentralized application. The *revenue model* is a mix of premium and consulting services for groups or education institutions that hope to deliver more effective schooling at a lower cost to parents and students. What features will ultimately be included depends on the needs of individual users as well as schools that hope to utilize it.
 
+&nbsp;
+
 **Multi-Pronged MVP:**
+
+&nbsp;
 
 **Feature Execution:**
 
@@ -77,7 +81,11 @@ If successful, this project will lead to a self-sustaining ecosystem that fully 
 
 **Summary:** This section builds off the previous one by focusing on how we intend to grow in our target markets and how revenue will be generated from that adoption. Because most "edtech" firms are focused on getting special access to adoption by public school systems, they are artifically limited in how they attract new users, and revenue is far more likely to reflect special connections they may have rather than the true value they offer to users. 
 
+&nbsp;
+
 **User Acquisition:**
+
+&nbsp;
 
 **Revenue Generation:**
 
@@ -87,7 +95,11 @@ If successful, this project will lead to a self-sustaining ecosystem that fully 
 
 **Summary:** Education has always been a contentious issue in both public policy as well as society as a whole. And within Silicon Valley circles, it has been seen as one of the most challenging areas to innovate in due to existing special interests. This section addresses criticism about LibreLearner itself, as well as the political or legal challenges it may face. Broadly speaking, we aim to have something that appeals to parents/students, instructors, and schools regardless of whether they are public, private, or homeschooling "co-ops" that act as such. 
 
+&nbsp;
+
 **On Execution:**
+
+&nbsp;
 
 **Legal Issues:**
 
@@ -99,6 +111,12 @@ If successful, this project will lead to a self-sustaining ecosystem that fully 
 
 *Before talking to investors directly, we hope to run a crowdfunding campaign to fund our seed round and put an early software iteration of LibreLearner to the test.*
 
+&nbsp;
+
 **Minimum Team:**
 
+&nbsp;
+
 **Software Stack:**
+
+&nbsp;
